@@ -1,0 +1,30 @@
+{"_id": "LQ000", "text": "What clinical features distinguish nodular from superficial spreading melanoma?", "intent": "diagnosis"}
+{"_id": "LQ001", "text": "How is Breslow thickness used to stage cutaneous melanoma?", "intent": "diagnosis"}
+{"_id": "LQ002", "text": "What is the role of dermoscopy in early melanoma detection?", "intent": "diagnosis"}
+{"_id": "LQ003", "text": "How accurate are deep learning systems at classifying skin lesions?", "intent": "diagnosis"}
+{"_id": "LQ004", "text": "Which immunohistochemical markers help confirm a melanoma diagnosis?", "intent": "diagnosis"}
+{"_id": "LQ005", "text": "How does sentinel lymph node biopsy inform melanoma prognosis?", "intent": "prognosis"}
+{"_id": "LQ006", "text": "What are the main types of skin cancer and how do they differ?", "intent": "general"}
+{"_id": "LQ007", "text": "How is Mohs micrographic surgery used in skin cancer treatment?", "intent": "treatment"}
+{"_id": "LQ008", "text": "What topical treatments are available for non-melanoma skin cancer?", "intent": "treatment"}
+{"_id": "LQ009", "text": "How effective is population-level skin cancer screening?", "intent": "general"}
+{"_id": "LQ010", "text": "What immune-related adverse events occur with checkpoint inhibitors?", "intent": "symptoms"}
+{"_id": "LQ011", "text": "What are the histological subtypes of cutaneous squamous cell carcinoma?", "intent": "diagnosis"}
+{"_id": "LQ012", "text": "Which cutaneous squamous cell carcinomas are high risk for metastasis?", "intent": "prognosis"}
+{"_id": "LQ013", "text": "How does cemiplimab work in advanced cutaneous squamous cell carcinoma?", "intent": "treatment"}
+{"_id": "LQ014", "text": "What role does human papillomavirus play in squamous cell carcinoma?", "intent": "mechanism"}
+{"_id": "LQ015", "text": "How is squamous cell carcinoma managed in transplant recipients?", "intent": "treatment"}
+{"_id": "LQ016", "text": "What laboratory tests are used to diagnose multiple myeloma?", "intent": "diagnosis"}
+{"_id": "LQ017", "text": "What are the CRAB criteria in multiple myeloma?", "intent": "diagnosis"}
+{"_id": "LQ018", "text": "How is smoldering myeloma distinguished from active multiple myeloma?", "intent": "diagnosis"}
+{"_id": "LQ019", "text": "What causes bone pain and lytic lesions in multiple myeloma?", "intent": "mechanism"}
+{"_id": "LQ020", "text": "How is minimal residual disease assessed in multiple myeloma?", "intent": "diagnosis"}
+{"_id": "LQ021", "text": "What is the infection risk with anti-CD38 antibody therapy in myeloma?", "intent": "symptoms"}
+{"_id": "LQ022", "text": "What are the clinical subtypes of basal cell carcinoma?", "intent": "diagnosis"}
+{"_id": "LQ023", "text": "What molecular pathway drives basal cell carcinoma development?", "intent": "mechanism"}
+{"_id": "LQ024", "text": "How is locally advanced basal cell carcinoma treated in elderly patients?", "intent": "treatment"}
+{"_id": "LQ025", "text": "How do hedgehog pathway inhibitors treat basal cell carcinoma?", "intent": "medication"}
+{"_id": "LQ026", "text": "What is the recurrence risk after basal cell carcinoma excision?", "intent": "prognosis"}
+{"_id": "LQ027", "text": "How effective is sunscreen at preventing melanoma?", "intent": "general"}
+{"_id": "LQ028", "text": "What UV exposure risks do outdoor workers face?", "intent": "general"}
+{"_id": "LQ029", "text": "What are the ABCDE warning signs of an atypical mole?", "intent": "symptoms"}
